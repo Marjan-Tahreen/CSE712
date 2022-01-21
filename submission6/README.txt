@@ -1,4 +1,5 @@
 completed youtube video:
+https://youtube.com/playlist?list=PLzOdtYcAxAiOS2UFM-pPUYu8TZBe5jHCa
 https://www.youtube.com/watch?v=X2vAabgKiuM 
 https://www.youtube.com/watch?v=XQgXKtPSzUI 
 https://www.youtube.com/watch?v=DVRQoVRzMIY 
