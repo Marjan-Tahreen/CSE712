@@ -1,26 +1,21 @@
-Completed coursera course using email
-someone@gmail.com
-https://www.coursera.org/learn/this_is_a_course
-
-Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
-
 completed youtube video:
-http://youtube....
+https://www.youtube.com/watch?v=X2vAabgKiuM 
+https://www.youtube.com/watch?v=XQgXKtPSzUI 
+https://www.youtube.com/watch?v=DVRQoVRzMIY 
+https://www.youtube.com/watch?v=-9vVhYEXeyQ
 
-completed book:
-http://book
-
-did project:
-.....
-
-did something else
-...
+did something else:
+Have read these papers and article to have clear understanding of NLP-
+https://www.datasciencecentral.com/your-guide-to-natural-language-processing-nlp/
+https://www.datasciencecentral.com/10-common-nlp-terms-explained-for-the-text-analysis-novice/
+https://ieeexplore.ieee.org/document/8966734
+https://ieeexplore.ieee.org/document/8566304
+https://ieeexplore.ieee.org/document/8712104
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1642568678049700
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1642568368049000
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1641564225003300
 
 Submitter:
 21166049 Marjan Tahreen
