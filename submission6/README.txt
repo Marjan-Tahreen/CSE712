@@ -6,7 +6,6 @@ https://www.youtube.com/watch?v=DVRQoVRzMIY
 https://www.youtube.com/watch?v=-9vVhYEXeyQ
 
 did something else:
-Have read these papers and article to have clear understanding of NLP-
 https://www.datasciencecentral.com/your-guide-to-natural-language-processing-nlp/
 https://www.datasciencecentral.com/10-common-nlp-terms-explained-for-the-text-analysis-novice/
 https://ieeexplore.ieee.org/document/8966734
